@@ -1,0 +1,7 @@
+column,allowed_min,allowed_max,actual_min,actual_max,impossible_values
+DISTANCE,1,,31.0,4983.0,0
+CRS_ELAPSED_TIME,1,,-99.0,703.0,1
+DEP_HOUR,0,23.0,0.0,23.0,0
+ARR_HOUR,0,23.0,0.0,23.0,0
+MONTH,1,12.0,10.0,12.0,0
+DAY_OF_WEEK,0,6.0,0.0,6.0,0

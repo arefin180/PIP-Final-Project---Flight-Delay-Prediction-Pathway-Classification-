@@ -1,0 +1,19 @@
+# ENVIRONMENT FILE
+# Requirements Section 11.
+#TO SET UP THE PROJECT FROM SCRATCH:
+
+#   python -m venv venv
+#   source venv/bin/activate        
+#   pip install -r requirements.txt
+
+# The versions below are the ones this project was developed and tested
+# with. If your team installs different versions, re-run the line above so
+# this file matches outputs. 
+
+# Python version used: 3.14.6
+#verified with `python --version` on the machine that produced the results in results/figures/ and results/metrics/
+
+pandas==3.0.5
+numpy==2.5.1
+scikit-learn==1.9.0
+matplotlib==3.11.1

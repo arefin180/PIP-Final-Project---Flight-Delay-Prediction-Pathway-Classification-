@@ -1,0 +1,7 @@
+actual_name,predicted_name,count,percent_of_all_errors
+on_time,major,20680,37.23
+on_time,minor,17970,32.35
+minor,on_time,7726,13.91
+minor,major,4525,8.15
+major,on_time,2551,4.59
+major,minor,2095,3.77
